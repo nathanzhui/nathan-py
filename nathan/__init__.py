@@ -1,1 +1,3 @@
-from nathan import Nathan
+__all__ = ["Nathan"]
+
+from .base import Nathan
